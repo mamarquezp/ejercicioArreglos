@@ -1,0 +1,29 @@
+{
+  "name": "ejercicioarreglos",
+  "version": "1.0.0",
+  "description": "Ejercicios de arreglos JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamarquezp/ejercicioArreglos.git"
+  },
+  "keywords": [
+    "arreglo",
+    "javascript",
+    "programacion"
+  ],
+  "author": "Mike Marquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamarquezp/ejercicioArreglos/issues"
+  },
+  "homepage": "https://github.com/mamarquezp/ejercicioArreglos#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^12.5.0",
+    "readline-sync": "^1.4.10"
+  }
+}
